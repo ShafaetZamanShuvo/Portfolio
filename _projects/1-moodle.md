@@ -1,8 +1,10 @@
 ---
 layout: project
-title: PODD App Nine Words
-img: "img/projects/02-podd_book.png"
-description: >
-  This project is based on my research topic, which focuses on developing a tool for non-verbal autistic individuals, including both young and adults. The tool is currently being used in Bangladesh and Singapore. It aims to assist in collecting data that will be further analyzed to understand the behavior and detect emotions of individuals with autism who are unable to communicate verbally.
-ghlink: "https://drive.google.com/drive/folders/1uQ1kv_AB7uWqKltBhqco3a06qn2I_saK?usp=share_link"
+title: Moodle
+img: "img/projects/01-moodle-logo.jpg"
+description: We developed a Moodle LMS (Learning Management System) for our software engineering project. We utilized the MERN stack (MongoDB, Express, React, Node) to develop a web-based LMS platform. This website was inspired by <a href = "https://moodle.cse.buet.ac.bd">https://moodle.cse.buet.ac.bd</a>.
+ghlink: "https://github.com/ShafaetZamanShuvo/CSE408Project"
+vdlink: "https://drive.google.com/file/d/1Gptiwe-TZtYJl2HUdfBybDwPtKNaTzQU/view"
 ---
+
+Moodle website
